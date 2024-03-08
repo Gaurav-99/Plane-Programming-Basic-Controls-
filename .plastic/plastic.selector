@@ -1,4 +1,0 @@
-repository "Learn_ Player Control 1_ Car Game_ MP@gj0189634@cloud"
-  path "/"
-    br "/main"
-    co "/main"
